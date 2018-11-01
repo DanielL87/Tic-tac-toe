@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+  margin-top: 10px;
+  background-color: skyblue
+}
+
+.row {
+}
+
+.col{
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  background-color: yellow;
+  margin-top: 2px;
+  padding-top: 20px;
+  font-size: 40px;
+}
+
+button {
+  padding: 20px;
+  font-size: 30px;
+  margin-top: 10px;
+}
